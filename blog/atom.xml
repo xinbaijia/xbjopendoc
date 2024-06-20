@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://shop901067118sg72.1688.com/blog</id>
+    <title>新百佳开放平台 Blog</title>
+    <updated>2024-06-03T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://shop901067118sg72.1688.com/blog"/>
+    <subtitle>新百佳开放平台 Blog</subtitle>
+    <icon>https://shop901067118sg72.1688.com/img/xbj.jpg</icon>
+    <entry>
+        <title type="html"><![CDATA[新百佳开放平台]]></title>
+        <id>https://shop901067118sg72.1688.com/blog/first-blog-post</id>
+        <link href="https://shop901067118sg72.1688.com/blog/first-blog-post"/>
+        <updated>2024-06-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA["新百佳开放平台"，一个致力于融合创新技术、优化用户体验、并驱动商业增长的数字生态系统。我们深信，通过开放合作的力量，能够激发无限潜能，重塑行业未来。]]></summary>
+        <content type="html"><![CDATA[<p>"新百佳开放平台"，一个致力于融合创新技术、优化用户体验、并驱动商业增长的数字生态系统。我们深信，通过开放合作的力量，能够激发无限潜能，重塑行业未来。</p>]]></content>
+        <author>
+            <name>ChenWei</name>
+            <uri>/</uri>
+        </author>
+        <author>
+            <name>Windy Street</name>
+            <uri>/</uri>
+        </author>
+        <category label="API" term="API"/>
+        <category label="开放平台" term="开放平台"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[公告]]></title>
+        <id>https://shop901067118sg72.1688.com/blog/long-blog-post</id>
+        <link href="https://shop901067118sg72.1688.com/blog/long-blog-post"/>
+        <updated>2024-06-03T00:00:00.000Z</updated>
+        <author>
+            <name>Windy Street</name>
+            <uri>/</uri>
+        </author>
+        <category label="API" term="API"/>
+        <category label="开放平台" term="开放平台"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欢迎]]></title>
+        <id>https://shop901067118sg72.1688.com/blog/welcome</id>
+        <link href="https://shop901067118sg72.1688.com/blog/welcome"/>
+        <updated>2024-06-03T00:00:00.000Z</updated>
+        <author>
+            <name>ChenWei</name>
+            <uri>/</uri>
+        </author>
+        <author>
+            <name>Windy Street</name>
+            <uri>/</uri>
+        </author>
+        <category label="API" term="API"/>
+        <category label="开放平台" term="开放平台"/>
+    </entry>
+</feed>
