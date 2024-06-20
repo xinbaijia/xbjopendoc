@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>新百佳开放平台 Blog</title>
-        <link>https://xinbaijia.github.io/blog</link>
+        <link>https://xinbaijia.github.io/xbjopendoc/blog</link>
         <description>新百佳开放平台 Blog</description>
         <lastBuildDate>Mon, 03 Jun 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>zh-Hans</language>
         <item>
             <title><![CDATA[新百佳开放平台]]></title>
-            <link>https://xinbaijia.github.io/blog/first-blog-post</link>
-            <guid>https://xinbaijia.github.io/blog/first-blog-post</guid>
+            <link>https://xinbaijia.github.io/xbjopendoc/blog/first-blog-post</link>
+            <guid>https://xinbaijia.github.io/xbjopendoc/blog/first-blog-post</guid>
             <pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
             <description><![CDATA["新百佳开放平台"，一个致力于融合创新技术、优化用户体验、并驱动商业增长的数字生态系统。我们深信，通过开放合作的力量，能够激发无限潜能，重塑行业未来。]]></description>
             <content:encoded><![CDATA[<p>"新百佳开放平台"，一个致力于融合创新技术、优化用户体验、并驱动商业增长的数字生态系统。我们深信，通过开放合作的力量，能够激发无限潜能，重塑行业未来。</p>]]></content:encoded>
@@ -20,16 +20,16 @@
         </item>
         <item>
             <title><![CDATA[公告]]></title>
-            <link>https://xinbaijia.github.io/blog/long-blog-post</link>
-            <guid>https://xinbaijia.github.io/blog/long-blog-post</guid>
+            <link>https://xinbaijia.github.io/xbjopendoc/blog/long-blog-post</link>
+            <guid>https://xinbaijia.github.io/xbjopendoc/blog/long-blog-post</guid>
             <pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
             <category>API</category>
             <category>开放平台</category>
         </item>
         <item>
             <title><![CDATA[欢迎]]></title>
-            <link>https://xinbaijia.github.io/blog/welcome</link>
-            <guid>https://xinbaijia.github.io/blog/welcome</guid>
+            <link>https://xinbaijia.github.io/xbjopendoc/blog/welcome</link>
+            <guid>https://xinbaijia.github.io/xbjopendoc/blog/welcome</guid>
             <pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
             <category>API</category>
             <category>开放平台</category>
